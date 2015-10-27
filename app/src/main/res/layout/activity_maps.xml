@@ -1,0 +1,41 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment_one.MapsActivity" >
+
+
+    <TextView
+        android:id="@+id/startRideText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corners"
+        android:gravity="center"
+        android:minWidth="180dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:text="Start Ride "
+        android:textColor="@android:color/black"
+        android:layout_gravity="center|bottom"
+        android:textSize = "25sp"
+        android:layout_marginBottom= "30dp"/>
+
+    <TextView
+        android:id="@+id/stopRideText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_corners"
+        android:gravity="center"
+        android:minWidth="180dp"
+        android:paddingLeft="2dp"
+        android:paddingRight="2dp"
+        android:text="Stop Ride "
+        android:textColor="@android:color/black"
+        android:layout_gravity="center|top"
+        android:textSize = "25sp"
+        android:layout_marginTop= "30dp"/>
+
+</fragment>
