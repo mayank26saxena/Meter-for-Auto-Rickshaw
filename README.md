@@ -11,4 +11,5 @@ Features
 ---------------
 ![alt tag](https://github.com/mayank26saxena/MeterforAutoRickshaw/blob/master/1.png)
 ![alt tag](https://github.com/mayank26saxena/MeterforAutoRickshaw/blob/master/2.png)
-![alt tag](https://github.com/mayank26saxena/MeterforAutoRickshaw/blob/master/3.png)
+![alt tag](https://github.com/mayank26saxena/MeterforAutoRickshaw/blob/master/4.png)
+![alt tag](https://github.com/mayank26saxena/MeterforAutoRickshaw/blob/master/5.png)
