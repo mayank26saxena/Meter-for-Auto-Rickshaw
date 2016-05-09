@@ -1,4 +1,6 @@
-# MeterforAutoRickshaw
+# Meter for Auto Rickshaw
+---------------
+Features
 - Tracks location on map. 
 - Calculates estimated fare.
 - Calculates estimated distance.
@@ -6,6 +8,7 @@
 - Saves all details of rides in a recycler view.
 
 # Screenshots
+---------------
 ![alt tag](https://github.com/mayank26saxena/MeterforAutoRickshaw/blob/master/1.png)
 ![alt tag](https://github.com/mayank26saxena/MeterforAutoRickshaw/blob/master/2.png)
 ![alt tag](https://github.com/mayank26saxena/MeterforAutoRickshaw/blob/master/3.png)
